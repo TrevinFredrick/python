@@ -1,0 +1,38 @@
+python --version
+cd- change directory
+to exit- exit()
+3 types of operators
+arethematic operators - + * / Modules(%) //
+assignment operators += -= *= /= =
+logical operators 2 types of operators (and,or)
+comparison operators < > == !=
+variable rules: only Charecters a-z ( in lowercase ), numbers only from 0-9, symbol(_), in between no space, any other symbol other than _ is not allowed
+the name starts with a charecter or _ (not possible to start with numbers)
+input method- name=input("")
+print(type())
+input method automatically converts to string
+to convert to interger int(input(""))
+to get a space in between in the case of string (a+" "+b)
+data types:numeric type:integer numbers, complex numbers, decimal point numbers
+sequence type:string, list, tuple
+to take letters from index method: print(a[1])
+to find the length:create a variable b=len(a)
+to find the last letter print(a[-1])
+to find if a letter is true or false in a name: print('v' in a)
+to add something in a list: list2.append("....")
+append is only used to add new element at the end 
+to insert an element in a list: list2.insert[2,1234]
+to find the elements in list print(list2[0:5])
++ operator is also called as concatination operator
+to remove an element from a list: list4.remove(grade 11)
+tuple:another data type which is immutable, only using the normal bracket and not []
+to convert tuple to list c=list(name of tuple)
+to convert list to tuple name of tuple=tuple(c)
+
+
+
+
+
+
+
+
