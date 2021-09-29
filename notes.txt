@@ -28,6 +28,22 @@ to remove an element from a list: list4.remove(grade 11)
 tuple:another data type which is immutable, only using the normal bracket and not []
 to convert tuple to list c=list(name of tuple)
 to convert list to tuple name of tuple=tuple(c)
+dictionary is a data type used to store data in key value pair 
+rules: Key must be a single element, value can be any type 
+dictionary is mutable 
+to create a dictionary: dict1={"apple":"iphone 13",......)
+to find the value in a dictionary print(dict1["memory"])
+to add a key value pair in a dictionary mobile["price"]=3096
+to create a function: def
+to create a class: class product:
+                        weight=""
+to create an object= obj=product()
+obj.display()
+
+
+
+
+
 
 
 
